@@ -30,7 +30,7 @@ function MyTabs() {
         options={{
           tabBarLabel: 'Task',
           tabBarIcon: ({ color, size }) => (
-            <MaterialCommunityIcons name="account" color={color} size={size} />
+            <MaterialCommunityIcons name="equal-box" color={color} size={size} />
           ),
           headerShown: false,
         }}
